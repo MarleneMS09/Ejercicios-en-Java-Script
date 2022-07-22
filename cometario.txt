@@ -1,1 +1,1 @@
-estoy agregando ejercicios en java y htlm
+Aprender programación es uno de los mayores desafíos, estoy iniciando mi aprendizaje con htlm y alertas en la consola
